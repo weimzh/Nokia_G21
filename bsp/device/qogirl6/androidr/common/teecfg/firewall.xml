@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<firewall_config>
+	<property ID="modem">
+		<addr type="ATTR_TYPE_UINT64">0x100000007FFFFFFF</addr>
+		<size type="ATTR_TYPE_UINT64">0x0000000000000004</size>
+	</property>
+
+	<property ID="drm">
+		<start type="ATTR_TYPE_UINT64">0xa3800000</start>
+		<size type="ATTR_TYPE_UINT64">0x0c800000</size>
+	</property>
+
+	<property ID="csi">
+		<start type="ATTR_TYPE_UINT32">0x30000030</start>
+		<end type="ATTR_TYPE_UINT32">0x30000030</end>
+	</property>
+
+	<property ID="dcam">
+		<start type="ATTR_TYPE_UINT32">0x3E003030</start>
+		<end type="ATTR_TYPE_UINT32">0x3E003030</end>
+	</property>
+
+	<property ID="isp">
+		<cnt type="ATTR_TYPE_UINT32">0x2</cnt>
+		<fetch_start type="ATTR_TYPE_UINT32">0x3A000118</fetch_start>
+		<fetch_3DNR_start type="ATTR_TYPE_UINT32">0x3A009030</fetch_3DNR_start>
+		<fetch_end type="ATTR_TYPE_UINT32">0x3A00012C</fetch_end>
+		<fetch_3DNR_end type="ATTR_TYPE_UINT32">0x3A009038</fetch_3DNR_end>
+	</property>
+
+</firewall_config>

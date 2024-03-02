@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<firewall_config>
+	<property ID="drm_enable">
+		<enable type="ATTR_TYPE_BOOL">true</enable>
+	</property>
+</firewall_config>

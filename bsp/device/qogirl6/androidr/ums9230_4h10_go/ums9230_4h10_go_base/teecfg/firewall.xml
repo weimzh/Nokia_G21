@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<firewall_config>
+    <property ID="uart_disable">
+        <enable type="ATTR_TYPE_BOOL">false</enable>
+    </property>
+</firewall_config>

@@ -1,0 +1,8 @@
+#
+# Input misc drivers configuration
+#
+config CAPSENSE_HX9031A
+	tristate "NanJingTianYiHeXin HX9031A or HX9023E SAR SENSOR"
+	depends on I2C
+	default y
+

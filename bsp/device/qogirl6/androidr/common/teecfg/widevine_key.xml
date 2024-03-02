@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Notes:
+You can read the user guide for more information, the path is bsp/tools/teecfg/user_guide.
+-->
+<widevine_key_config>
+	<property ID="pubkey_part0">
+		<part0 type="ATTR_TYPE_STRING">L6ClVwBSqJseYaM4mACaSXs6sdjY1sTpVEUH41CwfyVZPiRqk06DHQEwxowWWXBe</part0>
+	</property>
+	<property ID="pubkey_part1">
+		<part1 type="ATTR_TYPE_STRING">ygYmPbm5iLRNcR/r5p29u1mvqsay8GCdpXprPf5SKYDddXppHrs8DQLvouXqbFqv</part1>
+	</property>
+	<property ID="pubkey_part2">
+		<part2 type="ATTR_TYPE_STRING">/4lBjJ0RO8c+0i1WAsd6R0ElU0otNU4QnvFl1NBA8XN/iIUhAGFqqG8xAPNPT99r</part2>
+	</property>
+	<property ID="pubkey_part3">
+		<part3 type="ATTR_TYPE_STRING">ArwMmEdTqtZQ0u/aVUNUXqsbkQs5+m5AvwN3UL1820CAJvJSXErTr125ilwkLxWG</part3>
+	</property>
+	<property ID="pubkey_part4">
+		<part4 type="ATTR_TYPE_STRING">6z6HYv5UUYxT6pquA2QHv37MLr8s/EqyT9vVLTFQAyQP3eiHwrqnrKB9AF6h8Mb0</part4>
+	</property>
+	<property ID="pubkey_part5">
+		<part5 type="ATTR_TYPE_STRING">iJk8NfAsTeJvuVIpaH4XwXfDGAkeS5S6iazQk5jz4TKWLZ3jmKzqXzX7lca7xoqT</part5>
+	</property>
+	<property ID="pubkey_part6">
+		<part6 type="ATTR_TYPE_STRING">rbrs8Byld8mhkUgCOOHUiyy1IkD62uVAD7eWrFCiANHy4oOjI7iFvZ3EHHtTdRFw</part6>
+	</property>
+	<property ID="pubkey_part7">
+		<part7 type="ATTR_TYPE_STRING">hBearl3rgEVm7qG3fyiOOZewYkkb694Kd6B2VzcbI/U4MmEG2SER7mrikve+0vIG</part7>
+	</property>
+	<property ID="pubkey_part8">
+		<part8 type="ATTR_TYPE_STRING">JQUS7dIGaiORR04a3v9xv/AoHqkvNyWtrhx81GLu99tc+aPWnyLV1g2re+kR0zNf</part8>
+	</property>
+	<property ID="pubkey_part9">
+		<part9 type="ATTR_TYPE_STRING">X6Df/hLcXDJsCfv1z9/AnmhZk36w1fWEIZ685gGXJ4M=</part9>
+	</property>
+	<property ID="pubkey_part10">
+		<part10 type="ATTR_TYPE_STRING">000000</part10>
+	</property>
+</widevine_key_config>

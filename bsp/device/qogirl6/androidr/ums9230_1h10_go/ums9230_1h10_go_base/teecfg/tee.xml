@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Notes:
+You can read the user guide for more information, the path is bsp/tools/teecfg/user_guide.
+-->
+<tee_config>
+	<property ID="tos">
+		<addr type="ATTR_TYPE_UINT64" tag="ATTR_TAG_RESERVED">0xb0060000</addr>
+		<size type="ATTR_TYPE_UINT32" tag="ATTR_TAG_RESERVED">0x1400000</size>
+	</property>
+</tee_config>
+
+
+
